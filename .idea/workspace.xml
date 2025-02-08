@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17633879-a475-4f8a-8a5f-eed0f6a65e82" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/pattern printing" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumofN.java" afterDir="false" />
+    <list default="true" id="17633879-a475-4f8a-8a5f-eed0f6a65e82" name="Changes" comment="some basic programs">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/squareprinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/starSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern printing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumofN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopsQuestion/sumofN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +46,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.solidSquare.executor": "Run",
+    "Application.squareprinting.executor": "Run",
+    "Application.starSquare.executor": "Run",
     "Application.sumofN.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -90,11 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738834211100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="some basic programs">
+      <option name="closed" value="true" />
+      <created>1738836657658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738836657658</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="some basic programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="some basic programs" />
   </component>
 </project>

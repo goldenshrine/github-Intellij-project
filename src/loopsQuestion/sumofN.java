@@ -1,3 +1,5 @@
+package loopsQuestion;
+
 import java.util.Scanner;
 
 public class sumofN {
